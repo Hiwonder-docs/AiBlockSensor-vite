@@ -1,0 +1,84 @@
+import { _ as _imports_4$1 } from "./chunks/100.BYjhpv2o.js";
+import { _ as _export_sfc, o as openBlock, c as createElementBlock, ak as createStaticVNode } from "./chunks/framework.aYInhU_M.js";
+const _imports_0 = "/projects/AiBlockSensors/en/latest/assets/1.DMWo1WUt.webp";
+const _imports_1 = "/projects/AiBlockSensors/en/latest/assets/2.gFD3RLV4.webp";
+const _imports_2 = "/projects/AiBlockSensors/en/latest/assets/1.Hf1xHqeq.webp";
+const _imports_3 = "/projects/AiBlockSensors/en/latest/assets/2.D0h3DA7i.webp";
+const _imports_4 = "/projects/AiBlockSensors/en/latest/assets/3.CRfiwycf.webp";
+const _imports_5 = "/projects/AiBlockSensors/en/latest/assets/4.DSuEAuZZ.webp";
+const _imports_6 = "/projects/AiBlockSensors/en/latest/assets/5.pb4dVTGd.webp";
+const _imports_7 = "/projects/AiBlockSensors/en/latest/assets/1.D4QLAZnc.webp";
+const _imports_8 = "/projects/AiBlockSensors/en/latest/assets/2.CCqNbSc9.webp";
+const _imports_9 = "/projects/AiBlockSensors/en/latest/assets/3.B1yA9wQb.webp";
+const _imports_10 = "/projects/AiBlockSensors/en/latest/assets/4.BLLC_Qf_.webp";
+const _imports_11 = "/projects/AiBlockSensors/en/latest/assets/5.vHiDdOHp.webp";
+const _imports_12 = "/projects/AiBlockSensors/en/latest/assets/6.BuR8OT3H.webp";
+const _imports_13 = "/projects/AiBlockSensors/en/latest/assets/7.BYGsXO-S.webp";
+const _imports_14 = "/projects/AiBlockSensors/en/latest/assets/8.nPT5YFQy.webp";
+const _imports_15 = "data:image/png;base64,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";
+const _imports_16 = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIoAAABfCAIAAAC4FsivAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAD/klEQVR4nO3csWvcVhzA8Z+kTFkkgwUKJzKULm8yKW8QwoYWel0lCF46ZPBl6V/QqX+A8wdkSYaQ1RQkPHQQlCYcQsMr2fomdygqFRHJSVDSUlDVQbYsX50U3OPeT3e/z+K7dwfvh75Ivjt81tq2hX8RQkgp8zyv6/raJ5BV0TTNNE3XdRljnPPlR5eOvhAiSZKqqtY4ITlnWdZ0Oh1GupInjuM0TVUMRi75vh8EQXdb71epDRJpmsZx3N2+1f0QQiy18TyPMWbbtmEY6x5wmzRNU5allDLLsn4xTdPJZMI5P8+TJEn/2M7OThiGjuOse9KtZBiG4ziO4zDGoihaLBbdepIknHMdAIQQw9cC1EYJx3HCMOzvVlUlhNABQErZr3qeR21UcRzH87z+rpRSB4A8z/slxpiCuciF4fHP81wHgLqu+yXbthUMRS4Mj39d1zoADN/60Os0tYbHv21b/QNPJcpRHtQoD2qUBzXKgxrlQY3yoEZ5UKM8qFEe1G4p2XU+nx8fHyvZ+sbCMJzNZmveVE2esizn87mSrW9sb29v/ZvSxQ01yoOamovbFV98A598qXqI9yh+gmf3Fe5PZw9qlAc1yoMa5UGN8qBGeVCjPKhRHtQ2Lc+nH93WVM+wQhuV58E98/uHd5/ev7MxhTYnz4N75rPDO5oGR9zcmEIbkqdv09mYQgg+Ev3fltp0jrgJALNvf1Mz04qM/uy5tk3niJuPg3F/V2nceT7QpvOVZ4260Ijz/GebzqgLjfh3z/NX9fNXl18c+/zj28nsbnf76+9eP3r5VtFcqzTis2cbUB7UKA9qlAc1yoMa5UGN8qBGeVCjPKhRHtQoD2qUBzXKgxrlQY3yoEZ5UKM8qFEe1CgPapQHNcqDGuVBjfKgNuK/c1vy469/fvbkl+722Zu/1A6zKpuTZ/HH3z/8/E71FCtGFzfUKA9qlAc1yoMa5UGN8qBGeVCjPKhRHtQQfGpw9hLeLVQP8R6/l2r3x5DnBZy9UD0EUnRxQ43yoKbm4nZwcHB6eqpk6xubTCbr31RNnt3d3f39fSVbjwtd3FCjPKjpAKAN/i9N0zTqhiFXjr+maToAmKbZL5Wl4jdiW254/E3T1AHAdd1+SUqpYChyYXj8XdfVAYAx1i9lWVYUhYK5CEBRFFmW9XcZYzoAcM4ty+pXoyiiQutXFEUURf1dy7I451rbtgAghDg5ORk+2/M8xpht24ZhrHvSbdI0TVmWUsrheQMAh4eHl3kAII7jNE1VTEiW+b4fBAEM3/cEQeD7vrqRyLm+DQBcnj0dIUSSJFVVqRhs21mWNZ1OOef9ynKejhBCSpnneV3X1z6BrIqmaaZpuq7LGBuG6fwDy3YqK3RO7AwAAAAASUVORK5CYII=";
+const _imports_17 = "/projects/AiBlockSensors/en/latest/assets/1.DMrwNdwv.webp";
+const _imports_18 = "/projects/AiBlockSensors/en/latest/assets/2.BcjGPt3L.webp";
+const _imports_19 = "/projects/AiBlockSensors/en/latest/assets/3.BC3ZPcl0.webp";
+const _imports_20 = "/projects/AiBlockSensors/en/latest/assets/4.DqMlTSjC.webp";
+const _imports_21 = "/projects/AiBlockSensors/en/latest/assets/5.DjluOwFU.webp";
+const _imports_22 = "/projects/AiBlockSensors/en/latest/assets/6.DrSGXhvm.webp";
+const _imports_23 = "/projects/AiBlockSensors/en/latest/assets/7.CVDFriJN.webp";
+const _imports_24 = "/projects/AiBlockSensors/en/latest/assets/8.CE0s0xJc.webp";
+const _imports_25 = "/projects/AiBlockSensors/en/latest/assets/9.DqxWBcbM.webp";
+const _imports_26 = "/projects/AiBlockSensors/en/latest/assets/10.C5rfhDgW.webp";
+const _imports_27 = "/projects/AiBlockSensors/en/latest/assets/11.CeOlzluI.webp";
+const _imports_28 = "/projects/AiBlockSensors/en/latest/assets/12.i2wLinpo.webp";
+const _imports_29 = "/projects/AiBlockSensors/en/latest/assets/13.mRT24_Bs.webp";
+const _imports_30 = "/projects/AiBlockSensors/en/latest/assets/14.BBGKksf_.webp";
+const _imports_31 = "/projects/AiBlockSensors/en/latest/assets/15.Bn93UUKp.webp";
+const _imports_32 = "/projects/AiBlockSensors/en/latest/assets/16.l9QYs0mM.webp";
+const _imports_33 = "/projects/AiBlockSensors/en/latest/assets/17.B2NT48P1.webp";
+const _imports_34 = "/projects/AiBlockSensors/en/latest/assets/18.CG3Ki_RT.webp";
+const _imports_35 = "/projects/AiBlockSensors/en/latest/assets/1.CRaKqg4_.webp";
+const _imports_36 = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAgCAYAAAABtRhCAAAAAXNSR0IArs4c6QAAAYFJREFUSEtj/P///38GOgLGUQupHdqjQUrtEGUYDVKUID1z9jzD4iUrGe4/eMSgqCDHEBsTzmBibEhSsBMdpOs2bGZITc9n8PRwZdDT1WK4dPkaw/Yduxlmz5zIEBTgS7SlRFuorW/JEB8bwVBWkg83vKtnIsPCxSsYrl48Tl0LQUHp7hXMcO/WBQZ+fj644R8/fmJQUjNg2LltLdFBS5QP6W4hyEt0DVKQhbBEY2ZmzMDGysLw6dMXhkuXr9Iu0YASSGf3RAYeHm4GJmZmhk8fPzGIS4gxJMRGoiQkQqmHqDj0C4piePz4CcPkiV0MNlYWcDOPHDvBkJtfxiArK8Owad0yQnaB5QlauHzFGoac/DKG82cOMcjJymAY+ujxEwZDEzuG8tJ8onxK0EJDUzuGsuI8hsiIEJw+AAX38pVrGc6fPkTQlwQtFBZXwuk7mOmwoKXYQlBwgYKTUPwQq46oOCQYRiQqIBikJJpHUPmohQSDiFQFo0FKaogRVD/8gxQAhlAJsNdvMgMAAAAASUVORK5CYII=";
+const _imports_37 = "/projects/AiBlockSensors/en/latest/assets/2.59d62F_V.webp";
+const _imports_38 = "/projects/AiBlockSensors/en/latest/assets/3.DOneie2u.webp";
+const _imports_39 = "/projects/AiBlockSensors/en/latest/assets/4.C3yriPpJ.webp";
+const _imports_40 = "/projects/AiBlockSensors/en/latest/assets/5.C-dgbM5v.webp";
+const _imports_41 = "/projects/AiBlockSensors/en/latest/assets/6.0nmyjMP8.webp";
+const _imports_42 = "/projects/AiBlockSensors/en/latest/assets/7.DkB173mo.webp";
+const _imports_43 = "/projects/AiBlockSensors/en/latest/assets/8.nOgC40ko.webp";
+const _imports_44 = "/projects/AiBlockSensors/en/latest/assets/9.Qdu1J4Jv.webp";
+const _imports_45 = "/projects/AiBlockSensors/en/latest/assets/10.CbZdIoHR.webp";
+const _imports_46 = "/projects/AiBlockSensors/en/latest/assets/11.CgRaAZG9.webp";
+const _imports_47 = "/projects/AiBlockSensors/en/latest/assets/12.n_5IDyhX.webp";
+const _imports_48 = "/projects/AiBlockSensors/en/latest/assets/13.BfLT7Iw0.webp";
+const _imports_49 = "/projects/AiBlockSensors/en/latest/assets/14.B0YFvmHB.webp";
+const _imports_50 = "/projects/AiBlockSensors/en/latest/assets/15.uPq6E3KQ.webp";
+const _imports_51 = "/projects/AiBlockSensors/en/latest/assets/1.LyB4Bgiq.webp";
+const _imports_52 = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAApCAYAAACyXOB4AAAAAXNSR0IArs4c6QAAAbpJREFUWEftlr1OwlAUgA+DHXQRB0l668LkyqI7PEGb6CYvIO7WB7Du8AS4aQJPoHu7sOrCYm8THeyExjpozkmusQTouQpIzL1LE3py7sd3fqD0+pZ9wIqdkoFiVsSYYooCY8qY4hrgxpmeMqa4Brhx/6+nXgYD+vLrtdqXhExKSPs9sGwBZc/jysnF/cpUfOZTMuc8oOew2YRRFMKaEPAuJT2r3UuwhNCCmxsUAmUyhspxiwyhsWHziGB2b26XB/XUadNlm64Hse9DtdvNXY5g9406fb6xt88G0zKFPfR8fUXJLduG7dZJ4UV3jTqUXRcqjFiVbKFQaa8H2HcLNfVdC5ZmVgPjeywpnvGyFunVMqWSYVNbwgYnuJiaP/ZPIZOJNhAm1IZSU1Y0UUUmZ9nSgtLpEZzMLEno7q2Dw9yCnWv5HjttSPt91t5ZGhRuayzf+DRhqRACR38URSSCsy6mGdMqn5oo3Nw7QUALEUEffB8s4RDs+E9PUakmvdeCwgQKDGHUQTg19n8CpcBGYQhZIqHserl9Nemfg64tbVO6F/wk3kBxrRlTxhTXADfO9JQxxTXAjVvJnvoEqCNRit93lTMAAAAASUVORK5CYII=";
+const _imports_53 = "/projects/AiBlockSensors/en/latest/assets/2.jALhrLG4.webp";
+const _imports_54 = "/projects/AiBlockSensors/en/latest/assets/3.Busv6gcl.webp";
+const _imports_55 = "/projects/AiBlockSensors/en/latest/assets/4.DhGN3hp4.webp";
+const _imports_56 = "/projects/AiBlockSensors/en/latest/assets/6.BOKn9h73.webp";
+const _imports_57 = "/projects/AiBlockSensors/en/latest/assets/7.D9_Jpsq3.webp";
+const _imports_58 = "/projects/AiBlockSensors/en/latest/assets/8.3E_LhyWs.webp";
+const _imports_59 = "/projects/AiBlockSensors/en/latest/assets/9.DmDPrhoD.webp";
+const _imports_60 = "/projects/AiBlockSensors/en/latest/assets/10.Sh0AafrL.webp";
+const _imports_61 = "/projects/AiBlockSensors/en/latest/assets/11.DWmRCNQt.webp";
+const _imports_62 = "/projects/AiBlockSensors/en/latest/assets/12.Be_QgAAO.webp";
+const _imports_63 = "/projects/AiBlockSensors/en/latest/assets/13.BMCRCKns.webp";
+const _imports_64 = "/projects/AiBlockSensors/en/latest/assets/14.BnVk6s-V.webp";
+const _imports_65 = "/projects/AiBlockSensors/en/latest/assets/15.qa0UK6Xi.webp";
+const _imports_66 = "/projects/AiBlockSensors/en/latest/assets/16.D0oSHspl.webp";
+const _imports_67 = "/projects/AiBlockSensors/en/latest/assets/1.DCFeUxqH.webp";
+const _imports_68 = "/projects/AiBlockSensors/en/latest/assets/2.QN6zyNw6.webp";
+const _imports_69 = "/projects/AiBlockSensors/en/latest/assets/3.Dy539uKU.webp";
+const __pageData = JSON.parse('{"title":"19. WonderMind AI Module","description":"","frontmatter":{},"headers":[],"relativePath":"docs/19. WonderMind AI Module.md","filePath":"docs/19. WonderMind AI Module.md"}');
+const _sfc_main = { name: "docs/19. WonderMind AI Module.md" };
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return openBlock(), createElementBlock("div", null, [..._cache[0] || (_cache[0] = [
+    createStaticVNode("", 211)
+  ])]);
+}
+const _19__WonderMind_AI_Module = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render]]);
+export {
+  __pageData,
+  _19__WonderMind_AI_Module as default
+};

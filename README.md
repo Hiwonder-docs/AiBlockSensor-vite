@@ -36,5 +36,5 @@ https://hiwonder-docs.github.io/AiBlockSensors-vite/projects/AiBlockSensors/en/l
 The public-facing URL (via the baota Nginx reverse proxy) is:
 
 ```text
-https://wiki-test.hiwonder.com/projects/AiBlockSensors/en/latest/
+https://wiki.hiwonder.com/projects/AiBlockSensors/en/latest/
 ```
